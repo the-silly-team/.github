@@ -11,12 +11,15 @@ we're a small team that builds silly things for the web. our flagship product is
 
 we also built **the silly engine** — a from-scratch browser engine in zig, because zig sounds silly and we are all about silly.
 
+we also built **sillyos** — a from-scratch operating system in zig. actually useful. (probably.)
+
 ## our projects
 
 | project | description | link |
 |---|---|---|
 | **silly browser** | inject js + css into any website. 16+ starter scripts, silly+ supporter system, presets, win3.1 installer | [github](https://github.com/the-silly-team/silly-browser) · [pages](https://the-silly-team.github.io/silly-browser/) |
 | **silly engine** | a lightweight html/css/js browser engine in zig. no chromium. no gecko. just zig and vibes. | [github](https://github.com/the-silly-team/silly-engine) |
+| **sillyos** | a from-scratch operating system in zig. actually useful. (probably.) | [github](https://github.com/the-silly-team/silly-os) |
 
 ## get involved
 
@@ -30,6 +33,7 @@ we also built **the silly engine** — a from-scratch browser engine in zig, bec
 - [silly browser releases](https://github.com/the-silly-team/silly-browser/releases)
 - [silly browser pages](https://the-silly-team.github.io/silly-browser/)
 - [silly engine](https://github.com/the-silly-team/silly-engine)
+- [sillyos](https://github.com/the-silly-team/silly-os)
 
 ---
 
