@@ -34,7 +34,7 @@ we also built **the silly engine** — a from-scratch browser engine in zig, bec
 ---
 
 <div align="center">
-  <p>built with <code>:3</code> and a concerning amount of coffee..... and also a tiny bit of brain liquidation</p>
+  <p>built with <code>:3</code> and a concerning amount of coffee.....</p>
   <p>
     <a href="https://github.com/the-silly-team">github.com/the-silly-team</a>
   </p>
